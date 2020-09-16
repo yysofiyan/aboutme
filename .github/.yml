@@ -13,4 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "5"
-          feed_list: "https://dev.to/feed/yysofiyan"
+          feed_list: "https://stmik-sumedang.ac.id/team/yan-yan-sofiyan-m-kom/"
