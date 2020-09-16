@@ -5,7 +5,7 @@
 
 - 📗Sinta ID **[http://sinta.ristekbrin.go.id/affiliations/detail?id=1542&view=authors](#)**
 
-- 📗Researcgate [https://www.researchgate.net/profile/Yanyan_Sofiyan]
+- 📗Researcgate https://www.researchgate.net/profile/Yanyan_Sofiyan
 
 ---
 
