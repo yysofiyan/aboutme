@@ -61,7 +61,7 @@
     <a href="https://www.facebook.com/sofiyanyanyan/" target="blank"><img align="center"
             src="https://icongr.am/entypo/facebook.svg?size=22&color=currentColor" alt="yysofiyan" />
     <a href="http://hits.dwyl.com/yysofiyan/yysofiyan/" target="blank"><img align="center"
-            src="https://hits.dwyl.com/yysofiyan/yysofiyan.svg" alt="yysofiyan" ></a></p>
+            src="https://hits.dwyl.com/homepage.svg" alt="yysofiyan" ></a></p>
 
 <!-- END!!!! -->
 
