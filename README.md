@@ -47,6 +47,8 @@
         src="https://github-readme-stats.vercel.app/api?username=yysofiyan&show_icons=true&theme=dracula"
         alt="yysofiyan" width="50%" /></p>
 
+<!-- in your footer -->
+
 <p align="center">
     <a href="https://stmik-sumedang.ac.id/team/yan-yan-sofiyan-m-kom/" target="blank"><img align="center"
             src="https://icongr.am/simple/coffeescript.svg?size=22&color=currentColor&colored=false" alt="yysofiyan" />
@@ -57,11 +59,10 @@
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
             alt="https://www.linkedin.com/in/yanyan-sofiyan-58a783167/" height="20" width="20" /></a>
     <a href="https://www.facebook.com/sofiyanyanyan/" target="blank"><img align="center"
-    <img align="center" src="https://icongr.am/entypo/facebook.svg?size=22&color=currentColor" alt="yysofiyan" />
-    <a href=""><img src="http://hits.dwyl.com/" target="blank"><img align="center"></a>
-    </p>
+            src="https://icongr.am/entypo/facebook.svg?size=22&color=currentColor" alt="yysofiyan" />
+    <a href="http://hits.dwyl.com/yysofiyan/yysofiyan/" target="blank"><img align="center"
+            src="https://hits.dwyl.com/yysofiyan/yysofiyan.svg" alt="yysofiyan" ></a></p>
 
 <!-- END!!!! -->
 
 
-<!-- in your header -->
