@@ -19,7 +19,7 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"
         width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
         alt="kubernetes" width="40" height="40" /> <img
-        src="https://icongr.am/devicon/apple-original.svg?size=40&color=ffffff" alt="Apple" width="40"
+        src="https://icongr.am/devicon/apple-original.svg?size=40&color=000000" alt="Apple" width="40"
         height="40" /> <img
         src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=40&color=ffffff" alt="mongodb"
         width="40" height="40" /> <img src="https://icongr.am/devicon/apache-original-wordmark.svg?size=40&color=ffffff" alt="Apache" width="40"
