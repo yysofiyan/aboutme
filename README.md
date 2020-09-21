@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, yysofiyan</h1>
 <h3 align="center">Open Source enthusiast, Lecturer and full stack web developer from Sumedang / Indonesia.</h3>
 
-- 📗Google Scholar ID [https://scholar.google.co.id/citations?user=1Th3oxkAAAAJ&hl=id](#)
+- 📗Google Scholar ID [https://scholar.google.co.id/citations?hl=id&user=1Th3oxkAAAAJ](https://scholar.google.co.id/citations?hl=id&user=1Th3oxkAAAAJ)
 
-- 📗Sinta ID **[http://sinta.ristekbrin.go.id/affiliations/detail?id=1542&view=authors](#)**
+- 📗Sinta ID [http://sinta.ristekbrin.go.id/affiliations/detail?id=1542&view=authors](http://sinta.ristekbrin.go.id/affiliations/detail?id=1542&view=authors)
 
-- 📗Researcgate https://www.researchgate.net/profile/Yanyan_Sofiyan
+- 📗Researcgate [https://www.researchgate.net/profile/Yanyan_Sofiyan](https://www.researchgate.net/profile/Yanyan_Sofiyan)
 
 ---
 
@@ -36,19 +36,16 @@
         alt="react" width="40" height="40" /> <img
         src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript"
         width="40" height="40" /></p>
-
 <!-- icon!!!!!!!--->
-
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=yysofiyan&layout=compact&hide=html"
-        alt="mxschmitt" /></p>
+        alt="yysofiyan" width="30%" /></p>
 
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=yysofiyan&show_icons=true&theme=dracula"
-        alt="yysofiyan" width="50%" /></p>
+        alt="yysofiyan" width="31%" /></p>
 
 <!-- in your footer -->
-
 <p align="center">
     <a href="https://stmik-sumedang.ac.id/team/yan-yan-sofiyan-m-kom/" target="blank"><img align="center"
             src="https://icongr.am/simple/coffeescript.svg?size=22&color=currentColor&colored=false" alt="yysofiyan" />
@@ -60,9 +57,8 @@
             alt="https://www.linkedin.com/in/yanyan-sofiyan-58a783167/" height="20" width="20" /></a>
     <a href="https://www.facebook.com/sofiyanyanyan/" target="blank"><img align="center"
             src="https://icongr.am/entypo/facebook.svg?size=22&color=currentColor" alt="yysofiyan" />
+    <a href="instagram/yysofiyan" target="blank"><img align="center"
+            src="https://icongr.am/entypo/instagram.svg?size=22&color=currentColor" alt="yysofiyan" />
     <a href="http://hits.dwyl.com/yysofiyan/yysofiyan/" target="blank"><img align="center"
             src="https://hits.dwyl.com/homepage.svg" alt="yysofiyan" ></a></p>
-
 <!-- END!!!! -->
-
-
