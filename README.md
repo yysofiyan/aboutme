@@ -1,64 +1,54 @@
-<h1 align="center">Hi 👋, yysofiyan</h1>
-<h3 align="center">Open Source enthusiast, Lecturer and full stack web developer from Sumedang / Indonesia.</h3>
+<h1 align="center">Hi 👋, Yanyan Sofiyan</h1>
+<h3 align="center">Lecturer and head of information systems</h3>
 
-- 📗Google Scholar ID [https://scholar.google.co.id/citations?hl=id&user=1Th3oxkAAAAJ](https://scholar.google.co.id/citations?hl=id&user=1Th3oxkAAAAJ)
+<a href="#">
+  <img align="left" alt="yysofiyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/yanyansofiyan/">
+  <img align="left" alt="Yanyan Sofiyan LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="#">
+  <img align="left" alt="Fika Ridaul Maulayya Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/yysofiyan/">
+  <img align="left" alt="Yanyan Sofiyan Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-- 📗Sinta ID [http://sinta.ristekbrin.go.id/affiliations/detail?id=1542&view=authors](http://sinta.ristekbrin.go.id/affiliations/detail?id=1542&view=authors)
+<br>
+<br>
 
-- 📗Researcgate [https://www.researchgate.net/profile/Yanyan_Sofiyan](https://www.researchgate.net/profile/Yanyan_Sofiyan)
+- 🔭 I’m currently working on [STMIK Sumedang](#)
 
----
+- 👨‍💻 Portfolio at [Here](https://github.com/yysofiyan/Redme.md)
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django"
-        width="40" height="40" /> <img
-        src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker"
-        width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"
-        alt="gcp" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-        alt="git" width="40" height="40" /> <img
-        src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40" />
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"
-        width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-        alt="kubernetes" width="40" height="40" /> <img
-        src="https://icongr.am/devicon/apple-original.svg?size=40&color=000000" alt="Apple" width="40"
-        height="40" /> <img
-        src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=40&color=ffffff" alt="mongodb"
-        width="40" height="40" /> <img src="https://icongr.am/devicon/apache-original-wordmark.svg?size=40&color=ffffff" alt="Apache" width="40"
-        height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg"
-        alt="nginx" width="40" height="40" /> <img
-        src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"
-        width="40" height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg"
-        alt="php" width="40" height="40" /> <img
-        src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
-        alt="postgresql" width="40" height="40" /> <img
-        src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40"
-        height="40" /> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40"
-        height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
-        alt="react" width="40" height="40" /> <img
-        src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript"
-        width="40" height="40" /></p>
-<!-- icon!!!!!!!--->
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=yysofiyan&layout=compact&hide=html"
-        alt="yysofiyan" width="30%" /></p>
+- 📗 MyPublication 
+  * [📗Google Scholar ID](https://scholar.google.co.id/citations?user=1Th3oxkAAAAJ&hl=id)
+  * [📗Sinta ID](http://sinta.ristekbrin.go.id/affiliations/detail?id=1542&view=authors)
+  * [Researcgate](https://www.researchgate.net/profile/Yanyan_Sofiyan)
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=yysofiyan&show_icons=true&theme=dracula"
-        alt="yysofiyan" width="31%" /></p>
+- 📚 My E-book at [Here](#)
 
+- ✉️ How to reach me **yanyan@stmik-sumedang.ac.id**
+
+**Languages and Tools:**  
+
+<!--icon source by santrikoding -->
+<code>
+<img height="50" src="https://santrikoding.com/storage/categories/Z9WjttjEmct1FzwkFDwSVyKpvhTqBWkJUQA1CuLc.png">
+<img height="50" src="https://santrikoding.com/storage/categories/zuwzKbAhb691lp2Q1CIYaFK2w0a5McE1mceDOsRs.png">
+<img height="50" src="https://santrikoding.com/storage/categories/YoSpx2AAk65JI5z9wsiYMY5z7i3vWCe06VUP3FC0.png">
+<img height="50" src="https://santrikoding.com/storage/categories/cvwITZUdJRZIYg3zTz1iGdRFm08zLb7DIaazo5Cz.png">
+<img height="50" src="https://santrikoding.com/storage/categories/GrRE4ZWJzJB1kWatAGZ26BZ0iNZBUUsuZfw8ss4Q.png">
+<img height="50" src="https://santrikoding.com/storage/categories/iQMUiiTkloCSiqk3lSwpWtxnGqYjbfABjX2tAlHM.png">
+<img height="50" src="https://santrikoding.com/storage/categories/2oQUsFblZH5UIA1Cn8nzOxUh8AO7rbetKxpCqNd7.png">
+<img height="50" src="https://santrikoding.com/storage/categories/MG6r9rmxJqYoZAzZi75UeFO6dVtDwpyou9Er6htp.png">
+</code>
+
+![Yanyan Sofiyan Github Stats](https://github-readme-stats.vercel.app/api?username=yysofiyan&show_icons=true&theme=dracula)
+
+***********************************
 <!-- in your footer -->
+
 <p align="center">
-    <a href="https://stmik-sumedang.ac.id/team/yan-yan-sofiyan-m-kom/" target="blank"><img align="center"
-            src="https://icongr.am/simple/coffeescript.svg?size=22&color=currentColor&colored=false" alt="yysofiyan" />
-    <a href="https://twitter.com/yysofiyan" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yysofiyan" height="20"
-            width="20" /></a>
-    <a href="https://www.linkedin.com/in/yanyan-sofiyan-58a783167/" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
-            alt="https://www.linkedin.com/in/yanyan-sofiyan-58a783167/" height="20" width="20" /></a>
-    <a href="https://www.facebook.com/sofiyanyanyan/" target="blank"><img align="center"
-            src="https://icongr.am/entypo/facebook.svg?size=22&color=currentColor" alt="yysofiyan" />
-    <a href="instagram/yysofiyan" target="blank"><img align="center"
-            src="https://icongr.am/entypo/instagram.svg?size=22&color=currentColor" alt="yysofiyan" />
-    <a href="http://hits.dwyl.com/yysofiyan/yysofiyan/" target="blank"><img align="center"
+<a href="http://hits.dwyl.com/yysofiyan/yysofiyan/" target="blank"><img align="center"
             src="https://hits.dwyl.com/homepage.svg" alt="yysofiyan" ></a></p>
-<!-- END!!!! -->
