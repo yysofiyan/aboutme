@@ -24,7 +24,7 @@
 - 📗 MyPublication 
   * [📗Google Scholar ID](https://scholar.google.co.id/citations?user=1Th3oxkAAAAJ&hl=id)
   * [📗Sinta ID](http://sinta.ristekbrin.go.id/affiliations/detail?id=1542&view=authors)
-  * [Researcgate](https://www.researchgate.net/profile/Yanyan_Sofiyan)
+  * [📗Researcgate](https://www.researchgate.net/profile/Yanyan_Sofiyan)
 
 - 📚 My E-book at [Here](#)
 
