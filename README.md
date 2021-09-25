@@ -35,5 +35,5 @@
 <!-- in your footer -->
 
 <p align="center">
-<a href="http://hits.dwyl.com/yysofiyan/yysofiyan/" target="blank"><img align="center"
-            src="https://hits.dwyl.com/homepage.svg" alt="yysofiyan" ></a></p>
+<a href="https://komarev.com/ghpvc/?username=yysofiyan" target="blank"><img align="center"
+            src="https://komarev.com/ghpvc/?username=yysofiyan&color=ff69b4" alt="yysofiyan" ></a></p>
