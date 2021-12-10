@@ -28,7 +28,7 @@
 📊 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
-![yysofiyan](https://github-readme-stats.vercel.app/api/wakatime?username=yysofiyan&layout=compact&hide_title=true&hide_border=true&langs_count=5)
+![yysofiyan wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yysofiyan&layout=compact&hide_title=true&hide_border=true&langs_count=14)
 <!--END_SECTION:waka-->
 👨‍💻 Languages and Tools:
 
