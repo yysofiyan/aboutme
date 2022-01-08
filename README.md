@@ -15,22 +15,24 @@
 </a></p>
 <br>
 
-- 🔭 I’m currently working on [STMIK Sumedang](#)
+- 🔭 I’m currently working on [Universitas Sebelas April](#)
 - 👨‍💻 Portfolio at [Here](https://github.com/yysofiyan/Redme.md)
 - 📗 MyPublication
 
   - [📗Google Scholar ID](https://scholar.google.co.id/citations?user=1Th3oxkAAAAJ&hl=id)
-  - [📗Sinta ID](http://sinta.ristekbrin.go.id/affiliations/detail?id=1542&view=authors)
+  - [📗Sinta ID](https://sinta.kemdikbud.go.id/authors/detail?id=6655767&view=overview)
   - [📗Researcgate](https://www.researchgate.net/profile/Yanyan_Sofiyan)
 
 - 📚 My E-book at [Here](#)
-- ✉️ How to reach me **yanyan@stmik-sumedang.ac.id**
+- ✉️ How to reach me <a href="mailto:yysofiyan@unsap.ac.id">@yysofiyan</a>.<br> 
 
 📊 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
 
 ![yysofiyan wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yysofiyan&layout=compact&hide_title=true&hide_border=true&langs_count=14)
+
+![wakatime](https://wakatime.com/badge/user/26566595-1b62-44e9-bdc1-94bbe94879ec.svg)
 
 <!--END_SECTION:waka-->
 
