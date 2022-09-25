@@ -1,18 +1,5 @@
 <h1 align="center">Hi 👋, Yanyan Sofiyan</h1>
 <h3 align="center">Lecturer and head of information systems</h3>
-<p align="center">
-<a href="@yysofiyan">
-  <img align="center" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/yanyansofiyan/">
-  <img align="center" alt="Yanyan Sofiyan LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="0856963xxx">
-  <img align="center" alt="yysofiyan Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/yysofiyan/">
-  <img align="center" alt="Yanyan Sofiyan Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a></p>
 <br>
 
 - 🔭 I’m currently working on [Universitas Sebelas April](#)
@@ -40,6 +27,13 @@
 
 <code><img height="50" src="https://www.pnglogos.com/images/other/angular.svg" alt="https://www.pnglogos.com/images/other/angular.svg"><img height="50" src="https://images-na.ssl-images-amazon.com/images/I/41eVkHJhdRL.png"
 alt="#"><img height="50" src="https://santrikoding.com/storage/categories/YoSpx2AAk65JI5z9wsiYMY5z7i3vWCe06VUP3FC0.png" alt="YoSpx2AAk65JI5z9wsiYMY5z7i3vWCe06VUP3FC0.png"><img height="50" src="https://santrikoding.com/storage/categories/cvwITZUdJRZIYg3zTz1iGdRFm08zLb7DIaazo5Cz.png" alt="cvwITZUdJRZIYg3zTz1iGdRFm08zLb7DIaazo5Cz.png"><img height="50" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" alt="GrRE4ZWJzJB1kWatAGZ26BZ0iNZBUUsuZfw8ss4Q.png"><img height="50" src="https://santrikoding.com/storage/categories/iQMUiiTkloCSiqk3lSwpWtxnGqYjbfABjX2tAlHM.png" alt="iQMUiiTkloCSiqk3lSwpWtxnGqYjbfABjX2tAlHM.png"><img height="50" src="https://santrikoding.com/storage/categories/2oQUsFblZH5UIA1Cn8nzOxUh8AO7rbetKxpCqNd7.png" alt="2oQUsFblZH5UIA1Cn8nzOxUh8AO7rbetKxpCqNd7.png"><img height="50" src="https://santrikoding.com/storage/categories/MG6r9rmxJqYoZAzZi75UeFO6dVtDwpyou9Er6htp.png" alt="MG6r9rmxJqYoZAzZi75UeFO6dVtDwpyou9Er6htp.png"><br></code>
+
+👋 Social:
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sofiyanyanyan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yysofiyan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yysofiyan)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://bit.ly/3Sf20mT)
+[![YouTube](https://img.shields.io/badge/Saweria-%23FF0000.svg?logo=starlingbank&logoColor=white)](https://saweria.co/yysofiyan)
 
 <!-- in your footer -->
 
