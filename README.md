@@ -35,6 +35,10 @@ alt="#"><img height="50" src="https://santrikoding.com/storage/categories/YoSpx2
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://bit.ly/3Sf20mT)
 [![YouTube](https://img.shields.io/badge/Saweria-%23FF0000.svg?logo=starlingbank&logoColor=white)](https://saweria.co/yysofiyan)
 
+🎵 Playlist:
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fpjockeea6mz66dz272kcvouxi)
+
 <!-- in your footer -->
 
 <p align="center">
