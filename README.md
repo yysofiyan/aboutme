@@ -37,7 +37,7 @@ alt="#"><img height="50" src="https://santrikoding.com/storage/categories/YoSpx2
 
 🎵 Playlist:
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fpjockeea6mz66dz272kcvouxi)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31fpjockeea6mz66dz272kcvouxi&count=2)
 
 <!-- in your footer -->
 
