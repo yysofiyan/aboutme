@@ -26,7 +26,8 @@
 👨‍💻 Languages and Tools:
 
 <code><img height="50" src="https://www.pnglogos.com/images/other/angular.svg" alt="https://www.pnglogos.com/images/other/angular.svg"><img height="50" src="https://images-na.ssl-images-amazon.com/images/I/41eVkHJhdRL.png"
-alt="#"><img height="50" src="https://santrikoding.com/storage/categories/YoSpx2AAk65JI5z9wsiYMY5z7i3vWCe06VUP3FC0.png" alt="YoSpx2AAk65JI5z9wsiYMY5z7i3vWCe06VUP3FC0.png"><img height="50" src="https://santrikoding.com/storage/categories/cvwITZUdJRZIYg3zTz1iGdRFm08zLb7DIaazo5Cz.png" alt="cvwITZUdJRZIYg3zTz1iGdRFm08zLb7DIaazo5Cz.png"><img height="50" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" alt="GrRE4ZWJzJB1kWatAGZ26BZ0iNZBUUsuZfw8ss4Q.png"><img height="50" src="https://santrikoding.com/storage/categories/iQMUiiTkloCSiqk3lSwpWtxnGqYjbfABjX2tAlHM.png" alt="iQMUiiTkloCSiqk3lSwpWtxnGqYjbfABjX2tAlHM.png"><img height="50" src="https://santrikoding.com/storage/categories/2oQUsFblZH5UIA1Cn8nzOxUh8AO7rbetKxpCqNd7.png" alt="2oQUsFblZH5UIA1Cn8nzOxUh8AO7rbetKxpCqNd7.png"><img height="50" src="https://santrikoding.com/storage/categories/MG6r9rmxJqYoZAzZi75UeFO6dVtDwpyou9Er6htp.png" alt="MG6r9rmxJqYoZAzZi75UeFO6dVtDwpyou9Er6htp.png"><br></code>
+alt="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png"><img height="50" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png" alt="#"><img height="50" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" 
+alt=""><br></code>
 
 👋 Social:
 
