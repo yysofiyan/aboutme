@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, Yanyan Sofiyan</h1>
-<h3 align="center">Lecturer and head of information systems</h3>
+<h3 align="center">Lecturer</h3>
 <br>
 
 - 🔭 I’m currently working on [Universitas Sebelas April](#)
 - 👨‍💻 Portfolio at [Here](https://github.com/yysofiyan/Redme.md)
 - 📗 MyPublication
 
-  - [📗Google Scholar ID](https://scholar.google.co.id/citations?user=1Th3oxkAAAAJ&hl=id)
-  - [📗Sinta ID](https://sinta.kemdikbud.go.id/authors/detail?id=6655767&view=overview)
+  - [📗Scopus](https://www.scopus.com/authid/detail.uri?authorId=57421449500)
+  - [📗Sinta](https://sinta.kemdikbud.go.id/authors/profile/6655767)
+  - [📗Google Scholar](https://scholar.google.co.id/citations?user=1Th3oxkAAAAJ&hl=id)
   - [📗Researcgate](https://www.researchgate.net/profile/Yanyan_Sofiyan)
 
-- 📚 My E-book at [Here](#)
+- 📚 My Book at [Coming Soon 👌](#)
 - ✉️ How to reach me <a href="mailto:yysofiyan@unsap.ac.id">@yysofiyan</a>.<br> 
 
 📊 **Weekly development breakdown**
@@ -25,7 +26,7 @@
 
 👨‍💻 Languages and Tools:
 
-<code><img height="50" src="https://www.pnglogos.com/images/other/angular.svg" alt="https://www.pnglogos.com/images/other/angular.svg"><img height="50" src="https://images-na.ssl-images-amazon.com/images/I/41eVkHJhdRL.png"
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"><img height="50" src="https://images-na.ssl-images-amazon.com/images/I/41eVkHJhdRL.png"
 alt="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png"><img height="50" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png" alt="#"><img height="50" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" 
 alt=""><br></code>
 
