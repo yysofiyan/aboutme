@@ -26,9 +26,8 @@
 
 👨‍💻 Languages and Tools:
 
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"><img height="50" src="https://images-na.ssl-images-amazon.com/images/I/41eVkHJhdRL.png"
-alt="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png"><img height="50" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png" alt="#"><img height="50" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" 
-alt=""><br></code>
+<code>
+<img height="50" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"alt="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"><img height="50" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"alt="https://cdn.worldvectorlogo.com/logos/git-icon.svg"><img height="50" src="https://images-na.ssl-images-amazon.com/images/I/41eVkHJhdRL.png"alt="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png"><img height="50" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png" alt="#"><img height="50" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png"alt=""><br></code>
 
 👋 Social:
 
