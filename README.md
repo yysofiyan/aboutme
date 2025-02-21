@@ -11,7 +11,8 @@
   - [📗Google Scholar](https://scholar.google.co.id/citations?user=1Th3oxkAAAAJ&hl=id)
   - [📗Researcgate](https://www.researchgate.net/profile/Yanyan_Sofiyan)
 
-- 📚 My Book at [Coming Soon 👌](#)
+- 📚 My Book [ISBN 978-623-161-425-4](https://isbn.perpusnas.go.id/bo-penerbit/penerbit/isbn/data/view-kdt/1071271)
+    - [Klik to Order](https://pustakaaksara.co.id/view/557)
 - ✉️ How to reach me <a href="mailto:yysofiyan@unsap.ac.id">@yysofiyan</a>.<br> 
 
 📊 **Weekly development breakdown**
